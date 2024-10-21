@@ -22,3 +22,7 @@ A simple Netflix clone built using **HTML**, **CSS**, and **Tailwind CSS** to pr
    ```bash
    git clone https://github.com/jaykumar2526/Netflix-clone.git
 
+##Screenshort
+n1.png
+n2.png
+n3.png
