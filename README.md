@@ -24,5 +24,7 @@ A simple Netflix clone built using **HTML**, **CSS**, and **Tailwind CSS** to pr
 
 ##Screenshort
 ![Alt text](img/n1.png)
+![Alt text](img/n2.png)
+![Alt text](img/n3.png)
 
 
